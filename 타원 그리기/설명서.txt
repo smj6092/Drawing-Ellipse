@@ -1,0 +1,9 @@
+실행 방법
+
+1. values에서 타원의 방정식에 쓰일 값과
+접선의 방정식에 쓰일 값 설정
+
+2.
+application.windows64 -> sketch_210512a.exe 실행
+또는
+application.windows32 -> sketch_210512a.exe 실행
